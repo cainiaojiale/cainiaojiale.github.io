@@ -4,12 +4,18 @@
   
     
     <entry>
-      <title>第一篇文章</title>
+      <title>hello Hexo!</title>
       <link href="/2022/12/19/-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2022/12/19/-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="Hexo发布博客"><a href="#Hexo发布博客" class="headerlink" title="Hexo发布博客"></a>Hexo发布博客</h2><h3 id="1-生成静态文章"><a href="#1-生成静态文章" class="headerlink" title="1 生成静态文章"></a>1 生成静态文章</h3><p>1.\source_posts目录下新建一篇md文件<br>2.文章开头如上述代码所示，每次需注意<strong>将文章分类，并添加标签</strong>(分类成功了，标签还没有..)</p><h3 id="2-部署github-pasage"><a href="#2-部署github-pasage" class="headerlink" title="2 部署github pasage"></a>2 部署github pasage</h3><p>1.文章写完之后，记得保存<br>2.打开一个新终端，输入 hexo cl; hexo s<br>3.会生成一个静态页面4000，进去查看如果没有问题在进行部署<br>4.终端中hexo d 进行部署</p>]]></content>
       
+      
+      <categories>
+          
+          <category> Hello World! </category>
+          
+      </categories>
       
       
     </entry>
